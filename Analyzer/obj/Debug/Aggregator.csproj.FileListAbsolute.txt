@@ -1,0 +1,7 @@
+C:\CSharp\Play Projects\WordCounter\Aggregator\bin\Debug\Aggregator.dll
+C:\CSharp\Play Projects\WordCounter\Aggregator\bin\Debug\Aggregator.pdb
+C:\CSharp\Play Projects\WordCounter\Aggregator\obj\Debug\Aggregator.dll
+C:\CSharp\Play Projects\WordCounter\Aggregator\obj\Debug\Aggregator.pdb
+C:\CSharp\Play Projects\WordCounter\Aggregator\bin\Debug\Autofac.dll
+C:\CSharp\Play Projects\WordCounter\Aggregator\bin\Debug\Autofac.xml
+C:\CSharp\Play Projects\WordCounter\Aggregator\obj\Debug\Aggregator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:IAlgorithm.cs" caret="139" fromTop="6" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Services/f:ISpecificationService.cs" caret="0" fromTop="0" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Specifications/f:ISpecification.cs" caret="65" fromTop="3" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:AcceptanceTests/d:AcceptanceCriteriaTextFile/f:AcceptanceCriteriaFromFile.cs" caret="1870" fromTop="32" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Specifications/f:FileSpecification.cs" caret="688" fromTop="18" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Services/f:IStrategyService.cs" caret="289" fromTop="12" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:ComponentTests/d:AccumulatorTests/f:When_AccumulateFromString_is_invoked.cs" caret="989" fromTop="29" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Services/f:SpecificationService.cs" caret="1385" fromTop="36" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:ComponentTests/d:SpecificationServiceTests/f:When_IsSatifiedBy_is_invoked.cs" caret="1687" fromTop="41" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:ComponentTests/d:AccumulatorTests/f:When_AccumulateFromFile_is_invoked.cs" caret="746" fromTop="24" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:AcceptanceTests/d:AcceptanceCriteria/f:AcceptanceCriteria.feature" caret="0" fromTop="0" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Strategy/f:BasicStrategy.cs" caret="306" fromTop="2" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:ComponentTests/d:SpecificationServiceTests/f:When_IsSatifiedBy_is_invoked_with_multiple_ctor_parameters.cs" caret="1800" fromTop="33" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:AcceptanceTests/d:AcceptanceCriteria/f:AcceptanceCriteria.feature.cs" caret="2800" fromTop="14" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:AutofacModules/f:AutofacModule.cs" caret="213" fromTop="10" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Accumulator/f:IAccumulator.cs" caret="0" fromTop="0" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Accumulator/f:Accumulator.cs" caret="1347" fromTop="15" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:TrieNode.cs" caret="4184" fromTop="20" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:BasicStrategyTests.cs" caret="8149" fromTop="135" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="5191" fromTop="129" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Services/f:FileService.cs" caret="54" fromTop="3" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Services/f:IFileService.cs" caret="245" fromTop="11" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Strategy/f:PrefixTreeStrategy.cs" caret="1379" fromTop="36" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Services/f:StrategyService.cs" caret="320" fromTop="11" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:StrategyType.cs" caret="180" fromTop="6" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:AcceptanceTests/d:AcceptanceCriteriaTextFile/f:TextFileAcceptance.feature" caret="542" fromTop="16" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/f:TextAnalyzer.cs" caret="317" fromTop="13" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/d:TestData/f:TestStrings.cs" caret="259" fromTop="10" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:PrefixTreeAlgorithm.cs" caret="555" fromTop="5" />
+    <File id="D96C2FD4-7633-4900-B1F7-E6C2B87AB6E4/f:Program.cs" caret="2" fromTop="1" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:PrefixTreeAlgorithm.cs" caret="1547" fromTop="16" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:PrefixTreeAlgorithm.cs" caret="1163" fromTop="6" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:TrieNode.cs" caret="4402" fromTop="26" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:TrieNode.cs" caret="4402" fromTop="25" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:TrieNode.cs" caret="4230" fromTop="22" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="3749" fromTop="19" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="3883" fromTop="22" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="4586" fromTop="26" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="6020" fromTop="20" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="6739" fromTop="17" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="7401" fromTop="17" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="8071" fromTop="23" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="8775" fromTop="17" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="9477" fromTop="22" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="1813" fromTop="16" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:UnitTests/f:PrefixTreeStrageyTests.cs" caret="5191" fromTop="17" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:TrieNode.cs" caret="2340" fromTop="7" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:TrieNode.cs" caret="3339" fromTop="18" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:TrieNode.cs" caret="4402" fromTop="25" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:TrieNode.cs" caret="4174" fromTop="20" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Accumulator/f:Accumulator.cs" caret="1347" fromTop="15" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:PrefixTreeAlgorithm.cs" caret="1731" fromTop="20" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:PrefixTreeAlgorithm.cs" caret="2184" fromTop="12" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:PrefixTreeAlgorithm.cs" caret="1591" fromTop="25" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:PrefixTreeAlgorithm.cs" caret="2378" fromTop="21" />
+    <File id="84189EF7-362F-4C4E-BDC2-CDB28FA58753/d:AcceptanceTests/d:AcceptanceCriteriaTextFile/f:TextFileAcceptance.feature" caret="542" fromTop="16" />
+    <File id="C53E7FDB-A00B-41AD-B639-DB3219413CEF/d:Algorithms/f:PrefixTreeAlgorithm.cs" caret="555" fromTop="5" />
+    <File id="D96C2FD4-7633-4900-B1F7-E6C2B87AB6E4/f:Program.cs" caret="662" fromTop="18" />
+    <File id="D96C2FD4-7633-4900-B1F7-E6C2B87AB6E4/f:Program.cs" caret="365" fromTop="17" />
+    <File id="D96C2FD4-7633-4900-B1F7-E6C2B87AB6E4/f:Program.cs" caret="2" fromTop="1" />
+  </RecentEdits>
+</RecentFiles>

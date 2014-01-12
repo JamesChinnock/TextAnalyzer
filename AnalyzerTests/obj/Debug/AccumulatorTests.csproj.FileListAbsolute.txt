@@ -1,0 +1,3 @@
+C:\CSharp\Play Projects\WordCounter\TestAggregator\obj\Debug\AccumulatorTests.csprojResolveAssemblyReference.cache
+C:\CSharp\Play Projects\WordCounter\TestAggregator\obj\Debug\TestAggregator.dll
+C:\CSharp\Play Projects\WordCounter\TestAggregator\obj\Debug\TestAggregator.pdb

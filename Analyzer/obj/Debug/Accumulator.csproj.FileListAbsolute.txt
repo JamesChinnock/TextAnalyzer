@@ -1,0 +1,2 @@
+C:\CSharp\Play Projects\WordCounter\Accumulator\obj\Debug\Accumulator.csprojResolveAssemblyReference.cache
+C:\CSharp\Play Projects\WordCounter\Accumulator\obj\Debug\Aggregator.dll

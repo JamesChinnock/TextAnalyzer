@@ -1,0 +1,6 @@
+C:\CSharp\Play Projects\WordCounter\Analyzer\obj\Debug\Aggregator.dll
+C:\CSharp\Play Projects\WordCounter\Analyzer\bin\Debug\Aggregator.dll
+C:\CSharp\Play Projects\WordCounter\Analyzer\bin\Debug\Aggregator.pdb
+C:\CSharp\Play Projects\WordCounter\Analyzer\bin\Debug\Autofac.dll
+C:\CSharp\Play Projects\WordCounter\Analyzer\bin\Debug\Autofac.xml
+C:\CSharp\Play Projects\WordCounter\Analyzer\obj\Debug\Aggregator.pdb

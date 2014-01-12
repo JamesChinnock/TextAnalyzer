@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="D96C2FD4-7633-4900-B1F7-E6C2B87AB6E4" ModuleId="WordCounter" />
+  <Module PersistentId="C53E7FDB-A00B-41AD-B639-DB3219413CEF" ModuleId="Aggregator_1" />
+  <Module PersistentId="84189EF7-362F-4C4E-BDC2-CDB28FA58753" ModuleId="TestAggregator" />
+  <Module PersistentId="EDA12CC6-B8A6-4ED0-8ED4-56823347AFBF" ModuleId="Common" />
+  <Module PersistentId="C10F1D62-F889-4F0D-A203-08E616649F1F" ModuleId="BasicAccumulator" />
+</Modules>
